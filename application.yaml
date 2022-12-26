@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Kasacka/argoNet
+    repoURL: https://github.com/Kasacka/nana-ops.git
     targetRevision: HEAD
     path: dev
     directory:
